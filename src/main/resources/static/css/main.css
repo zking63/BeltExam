@@ -1,0 +1,20 @@
+body{
+	background-color: grey;
+}
+.container {
+	margin-left: 94px;
+	margin-top: 10px;
+}
+.user-form {
+	display: inline-block;
+	width: 45%;
+	vertical-align: middle;
+	margin: 20px;
+	border: 1px solid white;
+	padding: 15px;
+	color: white;
+}
+.titles{
+	margin-left: 300px;
+	margin-top: 10px;
+}
